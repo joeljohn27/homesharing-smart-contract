@@ -1,1 +1,1 @@
-# roomsharing-smart-contract
+# homesharing-smart-contract
